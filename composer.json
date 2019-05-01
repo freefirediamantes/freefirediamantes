@@ -1,0 +1,25 @@
+{
+    "name": "free-fire-diamantes/gerador-de-free-fire-diamantes",
+    "description": "Download Free Fire Battlegrounds Mod Apk 1.30.0 latest version of Garena Free Fire Cheats Apk + Mod Aim bot + Data for Android from packagist with direct link below. ",
+    "homepage": "https://github.com/freefirediamantes/freefirediamantes",
+	"keywords": ["Free Fire Diamantes"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLICK Here Garena Free Fire Generador Diamantes",
+            "homepage": "https://gamesgeek.org/free",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
